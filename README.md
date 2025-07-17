@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srivarshini1085&label=Profile%20views&color=0e75b6&style=flat" alt="srivarshini1085" /> </p>
 
-- 🌱 I’m currently learning **Java Full Stack**
+- 🌱 I’m currently learning **Full Stack**
 
 - 👯 I’m looking to collaborate on **Microsoft**
 
-- 🤝 I’m looking for help with **Java development**
+- 🤝 I’m looking for help with **Full Stack development**
 
-- 📫 How to reach me **srivarshini@gmail.com**
+- 📫 How to reach me **srivarshini787@gmail.com**
 
 - ⚡ Fun fact **I Think I am Funny**
 
